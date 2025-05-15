@@ -2,6 +2,6 @@
 
 echo "hello"
 # teste adicional 
- echo "gabu 🌈🔥🌈"
+ echo "gabu 🔥"
 
  echo "😩🤯"
